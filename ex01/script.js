@@ -13,5 +13,6 @@ const stack = prompt("Qual seria o seu campo de estudo? (Stack)")
 const anoNascimento = parseFloat(prompt("Qual é o seu ano de nascimento?"))
 
 alert(`Olá Programador! Seu nome é ${primeiroNome + " " + segundoNome}.
-    Possui como campo de estudo ${stack}, tendo como idade ${2024 - anoNascimento}!`
+    Possui como campo de estudo ${stack}. 
+    Tendo como idade ${2024 - anoNascimento}!`
 )
