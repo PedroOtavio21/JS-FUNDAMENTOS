@@ -8,7 +8,7 @@ const valorUm = parseFloat(prompt("Insira um primeiro valor:"))
 const valorDois = parseFloat(prompt("Insira um segundo valor:"))
 
 const soma = valorUm + valorDois
-const subtracao = valorUm - valorUm
+const subtracao = valorUm - valorDois
 const multiplicacao = valorUm * valorDois
 const divisao = valorUm / valorDois
 
